@@ -1,0 +1,29 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“118.25.13.206”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  mian.c
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(51,14): warning : conversion to ‘int’ from ‘ssize_t {aka long int}’ may alter its value [-Wconversion]
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(51,14): warning :   wr_length = write(fd, add->_name, sizeof(add));
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(51,14): warning :               ^~~~~
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(52,14): warning : conversion to ‘int’ from ‘ssize_t {aka long int}’ may alter its value [-Wconversion]
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(52,14): warning :   wr_length = write(fd, add->_schoolnumber, sizeof(add));
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(52,14): warning :               ^~~~~
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(30,6): warning : variable ‘wr_length’ set but not used [-Wunused-but-set-variable]
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(30,6): warning :   int wr_length = 0;
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(30,6): warning :       ^~~~~~~~~
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(56,1): error : expected identifier or ‘(’ before ‘if’
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(56,1): error :  if (wr_length)
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(56,1): error :  ^~
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(62,1): error : expected identifier or ‘(’ before ‘else’
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(62,1): error :  else
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(62,1): error :  ^~~~
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(70,1): error : expected identifier or ‘(’ before ‘return’
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(70,1): error :  return 0;
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(70,1): error :  ^~~~~~
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(71,1): error : expected identifier or ‘(’ before ‘}’ token
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(71,1): error :  }
+C:\Users\LIUMINXUAN\source\repos\Linux2\mian.c(71,1): error :  ^
