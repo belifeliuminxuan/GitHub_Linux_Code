@@ -1,8 +1,0 @@
-﻿  Validating sources
-  Copying sources remotely to '192.168.56.101'
-  Validating architecture
-  Starting remote build
-  Compiling sources:
-  main.c
-  Linking objects
-  test_1.vcxproj -> H:\Linux\test_1\test_1\bin\x64\Debug\test_1.out
