@@ -1,0 +1,1 @@
+g++ -o "/home/ubuntu/projects/LJY_server_tcp/bin/x64/Debug/LJY_server_tcp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/ubuntu/projects/LJY_server_tcp/obj/x64/Debug/client.o /home/ubuntu/projects/LJY_server_tcp/obj/x64/Debug/server_tcp.o
