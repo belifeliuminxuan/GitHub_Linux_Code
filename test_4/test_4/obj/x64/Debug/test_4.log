@@ -1,0 +1,8 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.164.133'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.c
+  Linking objects
+  test_4.vcxproj -> G:\Linux\test_4\test_4\bin\x64\Debug\test_4.out
