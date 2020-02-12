@@ -123,6 +123,33 @@ depend:
 	$(MAKE) -f CMakeFiles/0212_.dir/build.make CMakeFiles/0212_.dir/build
 .PHONY : 0212_/fast
 
+cond.o: cond.c.o
+
+.PHONY : cond.o
+
+# target to build an object file
+cond.c.o:
+	$(MAKE) -f CMakeFiles/0212_.dir/build.make CMakeFiles/0212_.dir/cond.c.o
+.PHONY : cond.c.o
+
+cond.i: cond.c.i
+
+.PHONY : cond.i
+
+# target to preprocess a source file
+cond.c.i:
+	$(MAKE) -f CMakeFiles/0212_.dir/build.make CMakeFiles/0212_.dir/cond.c.i
+.PHONY : cond.c.i
+
+cond.s: cond.c.s
+
+.PHONY : cond.s
+
+# target to generate assembly for a file
+cond.c.s:
+	$(MAKE) -f CMakeFiles/0212_.dir/build.make CMakeFiles/0212_.dir/cond.c.s
+.PHONY : cond.c.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... 0212_"
 	@echo "... edit_cache"
+	@echo "... cond.o"
+	@echo "... cond.i"
+	@echo "... cond.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -6,5 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/liuminxuan/Linux/0212-练习/main.cpp
+/home/liuminxuan/Linux/0212-练习/cond.c
+stdio.h
+-
+unistd.h
+-
+pthread.h
+-
 
