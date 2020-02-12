@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/0212_.dir/main.cpp.o  -o 0212_ 
