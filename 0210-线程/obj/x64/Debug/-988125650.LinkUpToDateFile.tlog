@@ -1,1 +1,1 @@
-g++ -o "/root/projects/0210-线程/bin/x64/Debug/0210-线程.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -lpthread "/root/projects/0210-线程/obj/x64/Debug/main.o"
+g++ -o "/root/projects/0210-线程/bin/x64/Debug/0210-线程.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -lpthread "/root/projects/0210-线程/obj/x64/Debug/test.o"

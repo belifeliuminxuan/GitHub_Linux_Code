@@ -4,6 +4,6 @@
   正在验证体系结构
   正在启动远程生成
   正在编译源:
-  main.cpp
+  test.cpp
   正在链接对象
   0210-线程.vcxproj -> F:\GitHub\Linux\0210-线程\bin\x64\Debug\0210-线程.out
