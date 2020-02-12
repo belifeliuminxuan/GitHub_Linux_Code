@@ -1,5 +1,4 @@
-﻿  正在清理远程项目目录
-  正在验证源
+﻿  正在验证源
   正在将源远程复制到“47.93.191.215”
   正在验证体系结构
   正在验证体系结构
@@ -7,6 +6,4 @@
   正在编译源:
   main.c
   正在链接对象
-F:\GitHub\Linux\0212-线程\obj\x64\Debug\main.o : error : In function `main':
-F:\GitHub\Linux\0212-线程\main.c(26): error : undefined reference to `pthread_create'
-collect2 : error : ld returned 1 exit status
+  0212-线程.vcxproj -> F:\GitHub\Linux\0212-线程\bin\x64\Debug\0212-线程.out
