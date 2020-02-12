@@ -3,4 +3,4 @@ project(0212_)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(0212_ main.cpp)
+add_executable(0212_ main.cpp cond.c)
