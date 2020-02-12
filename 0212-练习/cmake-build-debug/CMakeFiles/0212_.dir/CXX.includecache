@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuminxuan/Linux/0212-练习/main.cpp
+stdio.h
+-
+unistd.h
+-
+pthread.h
+-
+sys/stat.h
+-
+
