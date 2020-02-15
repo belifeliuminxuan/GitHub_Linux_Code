@@ -1,0 +1,1 @@
+g++ -o "/root/projects/0213-信号量/bin/x64/Debug/0213-信号量.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -lpthread "/root/projects/0213-信号量/obj/x64/Debug/main.o"
