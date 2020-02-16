@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/0212_.dir/main.cpp.o CMakeFiles/0212_.dir/cond.c.o  -o 0212_ 

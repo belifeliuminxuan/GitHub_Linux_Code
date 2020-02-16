@@ -1,1 +1,0 @@
-g++ -o "/root/projects/0212-练习2/bin/x64/Debug/0212-练习2.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -lpthread "/root/projects/0212-练习2/obj/x64/Debug/cond.o"

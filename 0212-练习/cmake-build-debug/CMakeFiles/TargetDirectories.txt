@@ -1,3 +1,0 @@
-/home/liuminxuan/Linux/0212-练习/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/liuminxuan/Linux/0212-练习/cmake-build-debug/CMakeFiles/0212_.dir
-/home/liuminxuan/Linux/0212-练习/cmake-build-debug/CMakeFiles/edit_cache.dir
