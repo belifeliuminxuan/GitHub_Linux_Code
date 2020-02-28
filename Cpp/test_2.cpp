@@ -1,16 +1,18 @@
 /**********************************************************
  * Author   : liuminxuan
  * Email    : liuminxuan1024@163.com
- * Time     : 2020-02-21 17:01
- * FileName : test_1.c
+ * Time     : 2020-02-20 15:32
+ * FileName : test_2.cpp
  * *******************************************************/
+#include <iostream>
+using namespace std;
 
-#include <stdio.h>
-#include <ctype.h>
 
 int main()
 {
-  printf ("%c",tolower('A'));
+  char t;
+
+  cout<<sizeof(t);
 
 
   return 0;
